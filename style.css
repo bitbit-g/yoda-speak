@@ -1,0 +1,28 @@
+/* GENERAL STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+    font-size: 1em;
+}
+
+body {
+  line-height: 1.625;
+}
+
+h3, p, div {
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+  display: block;
+  margin: 15px auto;
+}
